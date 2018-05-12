@@ -1,0 +1,31 @@
+_repo: Tobacco-in-Colonial-Virginia-The-Sovereign-Remedy-_27117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herndon, G. Melvin
+    aliases:
+    - Herndon, George Melvin
+    - Herndon, Melvin
+    gutenberg_agent_id: '32470'
+    url: http://www.gutenberg.org/2009/agents/32470
+description: ''
+gutenberg_issued: '2008-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tobacco -- Virginia -- History'
+- !lcc 'F206'
+- !lcc 'SB'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775'
+title: 'Tobacco in Colonial Virginia
+
+  "The Sovereign Remedy"'
+url: http://www.gutenberg.org/ebooks/27117
